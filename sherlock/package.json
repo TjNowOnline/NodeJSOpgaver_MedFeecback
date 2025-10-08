@@ -1,0 +1,10 @@
+{
+  "name": "sherlock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sherlock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diceapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/envserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eventemitter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gamerprofilexpress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leaderboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minitubeserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modulmagi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nasabesked" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ninjafeedback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nodeeventyr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sherlock" vcs="Git" />
+  </component>
+</project>
